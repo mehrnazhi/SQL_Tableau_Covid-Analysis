@@ -30,6 +30,16 @@ During this project, I encountered and solved several real-world database issues
 **Challenge:** Encountering "Invalid Object Name" errors due to database schema and batch start issues.
 **Solution:** I optimized the script execution by using proper `USE [Database]` statements and `GO` batch separators for `CREATE VIEW` commands.
 
+## 🖼️ Data Visualization (Tableau)
+After cleaning and structuring the data in SQL, I connected the final **Views** to Tableau to create an interactive dashboard. 
+
+### Key Dashboard Features:
+* **Infection Map:** A geographic heat map showing COVID-19 spread intensity.
+* **Vaccination vs. Population Trend:** A dual-axis chart comparing vaccination rollout speed against population size.
+* **Death Rate Forecasting:** Visualizing the mortality trends across different continents.
+
+> [!TIP]
+> **View the Interactive Dashboard here:** [؟؟]
 ---
 
 ## 🔍 Featured Queries
