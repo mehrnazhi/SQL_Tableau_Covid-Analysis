@@ -62,5 +62,5 @@ This project demonstrates the ability to **troubleshoot complex database errors*
 ---
 
 ### 📬 Connect with me
-* **LinkedIn:** [Mehrnaz Hosseini]([https://www.linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/mehrnaz-hosseini-1248a5214/))
+* **LinkedIn:** [Mehrnaz Hosseini](https://www.linkedin.com/in/mehrnaz-hosseini-1248a5214/)
 * **Email:** [mehrnaz.hosseini7596@gmail.com]
