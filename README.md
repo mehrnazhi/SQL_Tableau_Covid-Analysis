@@ -41,7 +41,7 @@ After cleaning and structuring the data in SQL, I connected the final views to T
 * **Vaccination vs. Population Trend:** A dual-axis chart comparing vaccination rollout speed.
 * **Death Rate Analysis:** Visualizing mortality trends across different continents.
 
-> 🔗 **[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/mehrnaz.hosseini/viz/CovidDashboard_17126620546120/Dashboard1)**
+> 🔗 **[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/mehrnaz.hosseini/viz/CovidDashboard_17758284178030/Dashboard1?publish=yes)**
 
 ---
 
